@@ -1,40 +1,102 @@
-# Hi, I'm Krish Mittal
+<div align="center">
 
-I build full-stack products and developer tools — often around **real-time systems**, **APIs**, and **local AI workflows**.
+# Hi there, I'm Krish Mittal 👋
 
-Currently focused on competitive coding platforms, webhook tooling, and bridging local LLMs with Claude for coding assistants.
+### Full-Stack Developer · AI Enthusiast · Builder
 
----
+I love turning ideas into polished products — from realtime apps and APIs  
+to local AI tooling and developer utilities.
 
-### Featured projects
+<br />
 
-| Project | What it is |
-|---------|------------|
-| **[Claude-Bridge](https://github.com/krish-mittal1/Claude-Bridge)** | Local FastAPI + Playwright proxy for Claude.ai, plus a VS Code / Cursor extension orchestrated by Ollama |
-| **[signhook](https://github.com/krish-mittal1/signhook)** | Generate & sign realistic Stripe / Twilio / GitHub webhooks so you can test verification without reverse-engineering headers |
-| **[CodeArena](https://github.com/krish-mittal1/CodeArena)** | Real-time competitive coding — practice + 1v1 battles with an online judge ([live](https://codexarena.app)) |
-| **[DeadStream](https://github.com/krish-mittal1/DeadStream)** | Simulation of a social network run by autonomous AI agents ([live](https://dead-stream.vercel.app)) |
-| **[social-media-backend](https://github.com/krish-mittal1/social-media-backend)** | Production-style FastAPI backend for a social platform |
-| **[Portfolio](https://github.com/krish-mittal1/Portfolio)** | Personal site (Next.js + Framer Motion) |
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/krish-mittal1/Portfolio)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krish-mittal1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 
----
-
-### Stack I use a lot
-
-`Python` · `TypeScript` · `FastAPI` · `Next.js` · `Playwright` · `Ollama` · `Docker` · `PostgreSQL`
+</div>
 
 ---
 
-### GitHub
+### 🚀 About Me
 
-[![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krish-mittal1&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)](https://github.com/krish-mittal1)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krish-mittal1&layout=compact&theme=tokyonight&hide_title=true)](https://github.com/krish-mittal1)
+- 🔭 Currently building cool stuff with **AI**, **realtime systems**, and **modern web apps**
+- 🌱 Always learning — new frameworks, better architecture, cleaner DX
+- 💡 Open to collaboration, internships, and interesting side projects
+- ⚡ Fun fact: I ship faster when the coffee hits mid-debug
 
 ---
 
-### Elsewhere
+### 🛠️ Tech Stack
 
-- GitHub: [krish-mittal1](https://github.com/krish-mittal1)
-- Portfolio: [Portfolio repo](https://github.com/krish-mittal1/Portfolio)
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-Thanks for stopping by — feel free to open an issue or PR on any of the projects above.
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+#### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+#### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+#### AI & Tooling
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krish-mittal1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krish-mittal1&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=krish-mittal1&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+### 🎯 What I'm Into
+
+```text
+→ Full-stack web apps
+→ Realtime / competitive platforms
+→ AI agents & local LLMs
+→ Developer tools & DX
+→ Clean APIs and solid backend design
+```
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  Let's build something awesome together!
+</p>
+
+<div align="center">
+
+⭐️ From [krish-mittal1](https://github.com/krish-mittal1)
+
+</div>
