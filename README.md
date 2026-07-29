@@ -17,14 +17,14 @@ self-hosted infra, and AI-powered developer tools.
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🔭 Building **realtime apps**, **AI agents**, and **production-style backends**
-- 🧠 Into competitive coding platforms, collaborative editors, and local LLM workflows
-- 🏥 Also explore ML / medical imaging and 3D visualization when curiosity hits
-- 🌱 Always leveling up on architecture, DX, and shipping polish
-- 💡 Open to collaboration, internships, and interesting side projects
-- ⚡ Fun fact: I ship faster when the coffee hits mid-debug
+- Building **realtime apps**, **AI agents**, and **production-style backends**
+- Into competitive coding platforms, collaborative editors, and local LLM workflows
+- Also explore ML / medical imaging and 3D visualization when curiosity hits
+- Always leveling up on architecture, DX, and shipping polish
+- Open to collaboration, internships, and interesting side projects
+- Fun fact: I ship faster when the coffee hits mid-debug
 
 ---
 
