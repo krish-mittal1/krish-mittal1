@@ -65,18 +65,6 @@ to local AI tooling and developer utilities.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krish-mittal1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krish-mittal1&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=krish-mittal1&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ### 🎯 What I'm Into
 
 ```text
